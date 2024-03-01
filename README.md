@@ -72,4 +72,12 @@ yarn preview
 bun run preview
 ```
 
+```
+@Pinia/nuxt is used for state management.
+````
+
+This is a simple todo app project using Nuxt js based on vue js. In this project I have also used firebase for authentication. Using firebase login into the homepage using Phone Number & OTP. In the homepage I have made a todo-list app for a user to create a todo list. If necessary the user can also update & delete the list.
+
+
+
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
